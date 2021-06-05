@@ -1,0 +1,11 @@
+cd Desktop\SPRING 2021\CS 3500\Excellence\files
+
+java -jar EasyAnimator.jar -in big-bang-big-crunch.txt -view view -out out -speed 100
+
+
+
+java -jar EasyAnimator.jar -in toh-8.txt -view svg -out toh-at-20.svg -speed 20
+
+java -jar EasyAnimator.jar -in toh-8.txt -view view -out out -speed 20
+
+java -jar EasyAnimator.jar -in toh-3.txt -view text -out text-transcript.txt
